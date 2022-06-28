@@ -15,7 +15,7 @@ cd systems-bio-sc-multiomics-2022
 
 Start jupyter notebooks
 ```
-jupyter notebooks
+jupyter-notebook
 ```
 This should open the Jupyter app in a new web browser window. If the window doesn't open, you can copy-paste the link that appears on the terminal. 
 
